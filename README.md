@@ -1,7 +1,7 @@
 # Project Title 
 Smart Regustration System 
 
-#Description 
+# Description 
 The program validates user inputs such as registration number, student ID, email ID, password, and referral code using conditional statements and strings.
 The order of validation is done based on the last three digits of registration number.
 
@@ -35,5 +35,5 @@ The order of validation is done based on the last three digits of registration n
 - Run the code.
 - Enter the necessary details when prompted.
 
-  # Learning Outcomes
-  From this challenge, I have learned how to take user inputs from the user and also using string slicing, indexing and the conditional statements and also how to use the basic string functions like length checking, counting the characters by using the count() and indexing to check the positions of characters. I also learnt how to use the basic functions such as isdigit().
+# Learning Outcomes
+From this challenge, I have learned how to take user inputs from the user and also using string slicing, indexing and the conditional statements and also how to use the basic string functions like length checking, counting the characters by using the count() and indexing to check the positions of characters. I also learnt how to use the basic functions such as isdigit().
